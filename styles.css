@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: #bfc6e0;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: blue;
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(60, 60, 199);
+}
+
+a{
+    color: rgb(77, 77, 143);
+}
+
+h1{
+    color: rgb(77, 77, 143);
+}
+
+a:hover{
+    color: blue;
+}
+
+.bigi{
+    font-weight: bold;
+}
+
+.logo{
+    width: 100px;
+}
+
+div{
+    text-align: left;
+}
