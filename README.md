@@ -1,17 +1,9 @@
-# tasks
-task by goals
+a single HTML page that has
 
-program that prints my name is written in C#
+     - My name, 
 
-Slack Name: goals
+     - A sentence about myself and 
 
-Slack Email Address: emmamarks001@gmail.com
+     - My goals for this internship.
 
-Track: backend
-
-Link to GitHub Repository: https://github.com/emmamarks/tasks
-
-Heroku Link: https://emmamarks.github.io/tasks/
-
-I could not login to my heroku account. Still working on it though.
-But I have to submit so as to meet the deadline
+ https://emmamarks.github.io/tasks/
